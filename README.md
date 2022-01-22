@@ -13,7 +13,7 @@ More about me:
 
 - 🌱 I’m currently learning **React, Svelte, Tailwind CSS, NextJS**
 
-- 👨‍💻 All of my projects are available at [www.omyste.dev](www.omyste.dev)
+- 👨‍💻 All of my projects are available at [www.omyste.dev](https://www.omyste.dev/)
 
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, React etc.**
 
